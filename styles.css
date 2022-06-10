@@ -1,0 +1,109 @@
+
+#encabezado{
+	background:#ccc;
+	background:linear-gradient(90deg,#74276C,#C53364,#FD8263);
+	font-family:System-ui;
+	font-size:3rem;
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
+#titulo1{
+	font-family:Candara;
+	font-size:30px;
+	color:Black;
+}
+#texto1{
+	font-family:Century Gothic;
+	text-align:center;
+}
+#titulo2{
+	font-family:Candara;
+	font-size:30px;
+	color:Black;
+}
+#texto2{
+	font-family:Century Gothic;
+	text-align:center;
+}
+#titulo3{
+	font-family:Candara;
+	font-size:30px;
+	color:Black;
+}
+#texto3{
+	font-family:Century Gothic;
+	text-align:center;
+}
+#titulo4{
+	font-family:Candara;
+	font-size:30px;
+	color:Black;
+}
+#texto4{
+	font-family:Century Gothic;
+	text-align:center;
+}
+#texto5{
+	font-family:Candara;
+	font-size:25px;
+	color:Black;
+}
+#netflix{
+	font-family:Century Gothic;
+}
+#net1{
+	font-family:Courier New;
+	font-size:20px;
+}
+#net2{
+	background:#ccc;
+	background:linear-gradient(to bottom,Black,White);
+	font-family:Courier New;
+	font-size:20px;
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
+#amazon{
+	font-family:Century Gothic;;
+}
+#amatext1{
+	font-family:Courier New;
+}
+#amatext2{
+	background:#ccc;
+	background:linear-gradient(to bottom,Black,White);
+	font-family:Courier New;
+	font-size:20px;
+	-webkit-text-fill-color:transparent;
+	-webkit-background-clip:text;
+}
+#hbo{
+	font-family:Century Gothic;
+}
+#hbotext1{
+	font-family:Courier New;
+}
+#hbotext2{
+	font-family:Courier New;
+}
+#hbo1{
+	background:purple;
+}
+#disney{
+	font-family:Century Gothic;
+}
+#textdis1{
+	font-family:Courier New;
+}
+#textdis2{
+	font-family:Courier New;
+}
+.img{
+	border-radius:10px
+}
+.img2{
+	border-radius:40px
+}
+.link{
+	background:#333333
+}
